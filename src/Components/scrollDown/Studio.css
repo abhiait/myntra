@@ -1,0 +1,22 @@
+.Section{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    left: 15%;
+    align-items: center;
+    width: max-content;
+}
+p{
+    font-weight: 400;
+    margin: 10px;
+}
+.photoStudio{
+    width: 500px;
+    margin: 20px;
+}
+button{
+    padding: 15px 30px;
+    background-color: white;
+    border: 1px solid gray;
+    font-family: monospace
+}

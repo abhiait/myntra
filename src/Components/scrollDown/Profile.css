@@ -1,0 +1,31 @@
+.profile{
+    position: absolute;
+    right: 5%;
+    background-color: white;
+    padding: 20px;
+}
+h4{
+    margin: 0;
+}
+p{
+    padding: 0;
+    margin: 5px 0px;
+    font-size: 13px;
+}
+button{
+    color: #ff3f6c;
+    margin: 10px 0;
+    font-size: larger;
+    padding: 10px 20px;
+    border: 1px solid gray
+}
+button:hover{
+    border: 1px solid #ff3f6c;
+}
+div>p>i{
+    background-color: #ff3f6c;
+    color: black;
+    border-radius: 10%;
+    font-size: x-small;
+    padding: 1px;
+}

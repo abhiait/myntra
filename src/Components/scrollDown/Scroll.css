@@ -1,0 +1,21 @@
+.Section{
+display: inline-flex;
+position: absolute;
+left: 5%;
+background-color: white;
+padding: 1%;
+
+}
+li{
+    list-style: none;
+    font-weight: 400;
+    font-size: smaller;
+    padding: 1px;
+}
+ul>span{
+    color: #ee5f73;
+}
+li:hover{
+    font-weight: 600;
+
+}
